@@ -1,4 +1,4 @@
-# 为什么包名要那么多级
+# 为什么包名要那么多级  =》多人分工开发时不至于报名冲突
 # select返回的数据形式是怎么样的结果集
 # style=wx.DEFAULT_FRAME_STYLE ^ wx.MAXIMIZE_BOX)   ^ ?   =》不用管
 # pymysql 连接数据库也是通过socket，在主机名错误的同时会报lib/socket错误
